@@ -1,2 +1,2 @@
 # 站在巨人的肩膀上。
- 1.![avatar](./assess/img/WechatIMG4180.jpeg)
+ 1. [npm package.json属性详解](https://www.cnblogs.com/tzyy/p/5193811.html#_h1_13)
